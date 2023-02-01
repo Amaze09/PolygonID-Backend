@@ -1,0 +1,21 @@
+{
+  "name": "polygonid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iden3/js-iden3-auth": "^0.1.6",
+    "express": "^4.18.2",
+    "util": "^0.12.5",
+    "uuid": "^9.0.0"
+  }
+}
